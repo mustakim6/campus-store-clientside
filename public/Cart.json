@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "productName": "Sandwich",
+      "details": "Whole grain bread with turkey and lettuce",
+      "price": "123"
+    },
+    {
+      "id": 2,
+      "productName": "Apple",
+      "details": "Fresh Fuji apple",
+      "price": "124"   
+     },
+    {
+      "id": 3,
+      "productName": "Pizza",
+      "details": "Pepperoni, mushrooms, mozzarella cheese",
+      "price": "143"
+        },
+    {
+        "id": 4,
+        "productName": "Notebooks",
+        "details": "Set of 3 ruled notebooks",
+        "price": "122"
+      },
+      {
+        "id": 7,
+        "productName": "Scientific Calculator",
+        "details": "TI-84 Plus CE Graphing Calculator",
+        "price": "223"
+      },
+      {
+        "id": 9,
+        "productName": "USB Drive",
+        "details": "64GB, USB 3.0",
+        "price": "120"
+      }
+  ]

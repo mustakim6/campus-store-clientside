@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "food",
+    "name": "Biriyani",
+    "image": "https://example.com/apple.jpg"
+  },
+  {
+    "id": 2,
+    "category": "food",
+    "name": "Burger",
+    "image": "https://example.com/banana.jpg"
+  },
+  {
+    "id": 3,
+    "category": "food",
+    "name": "Pizza",
+    "image": "https://example.com/pizza.jpg"
+  },
+  {
+    "id": 4,
+    "category": "stationary",
+    "name": " Pentonic pen",
+    "image": "https://i.ibb.co/s3tQbXQ/pentonic.jpg"
+  },
+  {
+    "id": 5,
+    "category": "stationary",
+    "name": "Calculator Fx-991 CW",
+    "image": "https://i.ibb.co/Jjn7DzD/calculator.jpg"
+  },
+  {
+    "id": 6,
+    "category": "stationary",
+    "name": "Notebook",
+    "image": "https://i.ibb.co/6RhRNB7/notebook.jpg"
+  }
+]

@@ -10,6 +10,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <div className="height: 100% w-[1480px] mx-auto">
     <React.StrictMode>
       <RouterProvider router={router} />
-    </React.StrictMode>,
+    </React.StrictMode>
   </div>
 )
